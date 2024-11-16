@@ -1,0 +1,3 @@
+baseURL = 'https://firmwaresmith.com/'
+languageCode = 'en-us'
+title = 'Blog about embedded programming'
