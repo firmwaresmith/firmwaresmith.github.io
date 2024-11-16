@@ -1,3 +1,40 @@
 baseURL = 'https://firmwaresmith.com/'
-languageCode = 'en-us'
 title = 'Blog about embedded programming'
+author = "Firmwaresm1th"
+copyright = "Firmwaresm1th"
+languageCode = "en"
+theme = "tailwind"
+
+[markup]
+  _merge = "deep"
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "post"
+
+  [params.header]
+    logo = "logo.svg"
+
+  [params.footer]
+    since = 2024
+    poweredby = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 20
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
