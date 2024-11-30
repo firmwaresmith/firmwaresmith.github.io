@@ -23,7 +23,7 @@ But what causes procrastination? In my case, one significant factor is perfectio
 
 Initially, I tried launching the blog using WordPress and a Virtual Private Server.
 However, it didn't feel good enough, and I constantly worried about potential issues, like
-something breaking or needing to upgradfe to a newer version of WordPress.
+something breaking or needing to upgrade to a newer version of WordPress.
 
 This fear led me to explore other options, such as contributing to excellent [Memfault Interrupt](https://interrupt.memfault.com/)
 blog. However, writing for such a high-quality platform was even more daunting - I didn't
@@ -32,7 +32,7 @@ want to risk submitting mediocre content and facing rejection during the PR revi
 So, how can a perfectionist successfully start a blog?
 
 The key is to use simple, low-maintenance technologies. For instance, a static site generator
-like Hugo allows you to quickly write porsts in Markdown and manage your content in a GitHub repository.
+like Hugo allows you to quickly write posts in Markdown and manage your content in a GitHub repository.
 Hosting the blog on GitHub pages reduces maintenance costs and removes the pressure to post regularly - your
 site can sit idle for years without stress. Writing semi-anonymously under pseudonym frees you from
 worrying about your ego and lets you write without the fear of imperfecton.
